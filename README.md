@@ -11,7 +11,9 @@
 7. [Questions](#questions)
 
 ## Description
-Note Taker is a an that allows a user to view any notes that were taken previosusly, create new notes, and delete any notes stored.
+Note Taker is a an app that lets a user create new notes, view any notes that were taken previously, , and delete any notes stored. It will save these notes on the server.
+
+![Screenshot](./public/assets/images/screenshot.png)
 
 ## Installation
 This app works in any browser and no installation is required.
@@ -20,7 +22,7 @@ This app works in any browser and no installation is required.
 This app is useful for jotting down some quick notes when in need.
 
 ## License
-This is a MIT
+This is an MIT License.
 
 ## Contributors
 @kylezap
