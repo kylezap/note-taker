@@ -24,12 +24,6 @@ This app is useful for jotting down some quick notes when in need.
 ## License
 This is an MIT License.
 
-## Contributors
-@kylezap
-
-## Testing
-NA
-
 ## Questions?
 If you have any questions, feel free to send me an email at kzapcic at gmail.
 
